@@ -1,0 +1,5 @@
+# cria o diretório 
+> $ mkdir git-teste 
+> $ cd git-teste 
+> $ git init
+
